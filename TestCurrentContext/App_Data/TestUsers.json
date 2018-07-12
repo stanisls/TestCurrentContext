@@ -1,0 +1,7 @@
+﻿[
+  {
+    "UserName": "Tester",
+    "Password": "Test",
+    "Roles": [ "Tester" ]
+  }
+]
